@@ -4,12 +4,10 @@
 
 - Software developer with foucs on web development and data structures.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp;Tech Stack - Spring Boot,React</h3>
 
 - Frontend Projects -> 
-                        Pricing Card
-                        Social Media
-                        Books Store
+                        
 - Backend Projects ->   
                         
 
