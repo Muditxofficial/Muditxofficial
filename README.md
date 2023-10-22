@@ -4,10 +4,8 @@
 
 - Software developer with foucs on web development and data structures.
 
-<h3> 🛠 &nbsp;Tech Stack - Spring Boot,React</h3>
+<h3> 🛠 &nbsp;Tech Stack - Python,ML,RPA</h3>
 
-- Frontend Projects -> 
-                        
-- Backend Projects ->   
+- Projects ->   Event Management,ML case studies
                         
 
