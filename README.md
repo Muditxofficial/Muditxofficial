@@ -2,10 +2,10 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- Software developer with foucs on python/ML and RPA development.
+- Software developer with foucs on Python/SQL and Hadoop.
 
-<h3> 🛠 &nbsp;Tech Stack - Python,ML,RPA</h3>
+<h3> 🛠 &nbsp;Tech Stack - Python,SQL,Hadoop</h3>
 
-- Projects ->   Event Management,ML case studies
+- Projects ->   
                         
 
