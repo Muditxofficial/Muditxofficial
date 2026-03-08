@@ -2,10 +2,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- Software developer with foucs on Python/SQL and Hadoop.
+- Software Developer crafting intelligent automation solutions.
 
-<h3> 🛠 &nbsp;Tech Stack - Python,SQL,Hadoop</h3>
-
-- Projects ->   
                         
 
